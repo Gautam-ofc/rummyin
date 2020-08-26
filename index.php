@@ -137,7 +137,6 @@
          .input-box {
          /* margin-left: 41px; */
          border-radius: 13px;
-         /* margin: 9px 66px; */
          box-sizing: border-box;
          width: 203px;
          height: 56px;
